@@ -1,0 +1,41 @@
+Location,Date,Group,Total,Device always available for educational purposes,Device usually available for educational purposes,Device sometimes available for educational purposes,Device rarely available for educational purposes,Device never available for educational purposes,Did not report,Internet always available for educational purposes,Internet usually available for educational purposes,Internet sometimes available for educational purposes,Internet rarely available for educational purposes,Internet never available for educational purposes,Did not report.1
+WA,2020-05-05,    Enough of the types of food wanted,1044897.0,816638.0,168218.0,29909.0,10885.0,9657.0,9590.0,841228.0,148759.0,31229.0,2661.0,9657.0,11364.0
+WA,2020-05-05,"    Enough food, but not always the types wanted",248673.0,136434.0,57694.0,38066.0,5865.0,10615.0,,143298.0,82212.0,8851.0,3698.0,10615.0,
+WA,2020-05-05,    Sometimes not enough to eat,92317.0,44759.0,19709.0,57.0,25079.0,2713.0,,46648.0,17878.0,16598.0,6205.0,4990.0,
+WA,2020-05-05,    Often not enough to eat,2462.0,2462.0,,,,,,241.0,2221.0,,,,
+WA,2020-05-05,    Did not report,,,,,,,,,,,,,
+Seattle_Metro_Area,2020-05-05,    Enough of the types of food wanted,590820.0,482647.0,82515.0,17460.0,6782.0,1416.0,,489087.0,89364.0,10953.0,,1416.0,
+Seattle_Metro_Area,2020-05-05,"    Enough food, but not always the types wanted",99431.0,63980.0,22930.0,11699.0,822.0,,,72007.0,16085.0,7641.0,3698.0,,
+Seattle_Metro_Area,2020-05-05,    Sometimes not enough to eat,33153.0,14354.0,7547.0,57.0,8482.0,2713.0,,16243.0,5716.0,,6205.0,4990.0,
+Seattle_Metro_Area,2020-05-05,    Often not enough to eat,2221.0,2221.0,,,,,,,2221.0,,,,
+Seattle_Metro_Area,2020-05-05,    Did not report,,,,,,,,,,,,,
+WA,2020-05-12,    Enough of the types of food wanted,897021.0,693587.0,129503.0,14633.0,2037.0,30442.0,26819.0,742125.0,82408.0,1202.0,4079.0,42709.0,24499.0
+WA,2020-05-12,"    Enough food, but not always the types wanted",248131.0,156898.0,40204.0,22775.0,27041.0,,1213.0,181292.0,56872.0,8754.0,,,1213.0
+WA,2020-05-12,    Sometimes not enough to eat,121997.0,61137.0,19262.0,37238.0,,,4361.0,71096.0,13663.0,37238.0,,,
+WA,2020-05-12,    Often not enough to eat,29201.0,,4518.0,,24684.0,,,,4518.0,24684.0,,,
+WA,2020-05-12,    Did not report,,,,,,,,,,,,,
+Seattle_Metro_Area,2020-05-12,    Enough of the types of food wanted,530133.0,440906.0,57356.0,8586.0,2037.0,2523.0,18724.0,453870.0,39788.0,1202.0,1392.0,14791.0,19090.0
+Seattle_Metro_Area,2020-05-12,"    Enough food, but not always the types wanted",123473.0,104015.0,12908.0,2757.0,2580.0,,1213.0,91146.0,29145.0,1969.0,,,1213.0
+Seattle_Metro_Area,2020-05-12,    Sometimes not enough to eat,8500.0,4139.0,,,,,4361.0,4361.0,4139.0,,,,
+Seattle_Metro_Area,2020-05-12,    Often not enough to eat,24684.0,,,,24684.0,,,,,24684.0,,,
+Seattle_Metro_Area,2020-05-12,    Did not report,,,,,,,,,,,,,
+WA,2020-05-19,    Enough of the types of food wanted,1016666.0,728762.0,180253.0,36659.0,7120.0,63457.0,415.0,792827.0,113337.0,39629.0,451.0,66038.0,4384.0
+WA,2020-05-19,"    Enough food, but not always the types wanted",238280.0,207495.0,24416.0,5339.0,740.0,290.0,,208772.0,17134.0,11653.0,347.0,19.0,355.0
+WA,2020-05-19,    Sometimes not enough to eat,75616.0,19449.0,6075.0,29256.0,20409.0,426.0,,20575.0,4285.0,30055.0,19516.0,1185.0,
+WA,2020-05-19,    Often not enough to eat,16463.0,,934.0,12482.0,3046.0,,,444.0,491.0,15528.0,,,
+WA,2020-05-19,    Did not report,779.0,779.0,,,,,,779.0,,,,,
+Seattle_Metro_Area,2020-05-19,    Enough of the types of food wanted,504290.0,420112.0,59019.0,21829.0,414.0,2500.0,415.0,452587.0,40734.0,4486.0,,2500.0,3983.0
+Seattle_Metro_Area,2020-05-19,"    Enough food, but not always the types wanted",106088.0,92562.0,11106.0,1391.0,740.0,290.0,,95532.0,7181.0,2720.0,281.0,19.0,355.0
+Seattle_Metro_Area,2020-05-19,    Sometimes not enough to eat,28100.0,12790.0,1562.0,4650.0,8905.0,193.0,,13296.0,1176.0,4665.0,8012.0,951.0,
+Seattle_Metro_Area,2020-05-19,    Often not enough to eat,15972.0,,444.0,12482.0,3046.0,,,444.0,,15528.0,,,
+Seattle_Metro_Area,2020-05-19,    Did not report,,,,,,,,,,,,,
+WA,2020-05-26,    Enough of the types of food wanted,795743.0,645607.0,93479.0,10628.0,20716.0,3344.0,21969.0,644525.0,109285.0,15315.0,4892.0,102.0,21625.0
+WA,2020-05-26,"    Enough food, but not always the types wanted",312292.0,237722.0,31406.0,15264.0,10418.0,16923.0,559.0,192690.0,70679.0,11292.0,13967.0,16923.0,6741.0
+WA,2020-05-26,    Sometimes not enough to eat,73528.0,41812.0,13828.0,1982.0,7420.0,8485.0,,48799.0,8822.0,1982.0,5118.0,,8807.0
+WA,2020-05-26,    Often not enough to eat,14325.0,6311.0,384.0,7629.0,,,,7255.0,6364.0,706.0,,,
+WA,2020-05-26,    Did not report,1768.0,1768.0,,,,,,1768.0,,,,,
+Seattle_Metro_Area,2020-05-26,    Enough of the types of food wanted,412103.0,323925.0,66940.0,5708.0,3752.0,3344.0,8433.0,326456.0,66935.0,7646.0,2875.0,102.0,8088.0
+Seattle_Metro_Area,2020-05-26,"    Enough food, but not always the types wanted",166679.0,147704.0,13356.0,4378.0,682.0,,559.0,143563.0,15106.0,1268.0,,,6741.0
+Seattle_Metro_Area,2020-05-26,    Sometimes not enough to eat,46300.0,22004.0,13828.0,1982.0,,8485.0,,26689.0,8822.0,1982.0,,,8807.0
+Seattle_Metro_Area,2020-05-26,    Often not enough to eat,13122.0,5108.0,384.0,7629.0,,,,6052.0,6364.0,706.0,,,
+Seattle_Metro_Area,2020-05-26,    Did not report,1768.0,1768.0,,,,,,1768.0,,,,,

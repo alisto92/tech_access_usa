@@ -1,0 +1,53 @@
+FIPS,area_name,pct_urban_2010,area_abbv
+0,United States,80.7,US
+1,Alabama,59.0, AL
+2,Alaska,66.0, AK
+4,Arizona,89.8, AZ
+5,Arkansas,56.2, AR
+6,California,95.0, CA
+8,Colorado,86.2, CO
+9,Connecticut,88.0, CT
+10,Delaware,83.3, DE
+11,District of Columbia,100.0, DC
+12,Florida,91.2, FL
+13,Georgia,75.1, GA
+15,Hawaii,91.9, HI
+16,Idaho,70.6, ID
+17,Illinois,88.5, IL
+18,Indiana,72.4, IN
+19,Iowa,64.0, IA
+20,Kansas,74.2, KS
+21,Kentucky,58.4, KY
+22,Louisiana,73.2, LA
+23,Maine,38.7, ME
+24,Maryland,87.2, MD
+25,Massachusetts,92.0, MA
+26,Michigan,74.6, MI
+27,Minnesota,73.3, MN
+28,Mississippi,49.4, MS
+29,Missouri,70.4, MO
+30,Montana,55.9, MT
+31,Nebraska,73.1, NE
+32,Nevada,94.2, NV
+33,New Hampshire,60.3, NH
+34,New Jersey,94.7, NJ
+35,New Mexico,77.4, NM
+36,New York,87.9, NY
+37,North Carolina,66.1, NC
+38,North Dakota,59.9, ND
+39,Ohio,77.9, OH
+40,Oklahoma,66.2, OK
+41,Oregon,81.0, OR
+42,Pennsylvania,78.7, PA
+44,Rhode Island,90.7, RI
+45,South Carolina,66.3, SC
+46,South Dakota,56.7, SD
+47,Tennessee,66.4, TN
+48,Texas,84.7, TX
+49,Utah,90.6, UT
+50,Vermont,38.9, VT
+51,Virginia,75.5, VA
+53,Washington,84.1, WA
+54,West Virginia,48.7, WV
+55,Wisconsin,70.2, WI
+56,Wyoming,64.8, WY
